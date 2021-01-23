@@ -1,0 +1,2 @@
+# netlifydemo
+Trying out Netlify
